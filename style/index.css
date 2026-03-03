@@ -22,17 +22,19 @@ body {
 
 .intro-titolo {
     text-align: center;
+    text-transform: uppercase;
     font-family: "Cedarville Cursive", cursive;
     font-weight: 900;
     font-style: normal;
-    font-size: 48px;
     color: white;
+        padding: 10px 50px;
 }
 
 .intro-paragrafo {
     text-align: center;
     font-family: "DM Sans", sans-serif;
     color: white;
+    padding: 10px 50px;
 
 }
 
@@ -68,12 +70,11 @@ body {
 
 .demo-titolo{
     text-align: left;
+    text-transform: uppercase;
     font-family: "Cedarville Cursive", cursive;
     font-weight: 900;
-    font-style: normal;
-    font-size: 48px;
     color: white;
-    padding: 10px 50px;
+    padding: 30px 50px 15px;
 }
 
 .demo-paragrafo{
@@ -81,8 +82,6 @@ body {
     font-family: "DM Sans", sans-serif;
     color: white;
     padding: 10px 40px;
-    height: 110px;
-    width: 80;
 }
 
 .demo-img{
