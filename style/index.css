@@ -63,6 +63,7 @@ body {
     padding: 10px;
     width: 400px;
     margin: 60px auto;
+    position: relative;
 }
 
 .demo-titolo{
@@ -88,4 +89,12 @@ body {
     width: 100%;
     border-radius: 15%;
     padding: 20px 40px;
+}
+
+.demo-icon{
+    position: absolute;
+    top: 0;
+    left: 0;
+    translate: 80% -50%;
+    width: 90px;
 }
